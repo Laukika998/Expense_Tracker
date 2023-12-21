@@ -1,2 +1,2 @@
 # Expense_Tracker
- Implemented real-time Data Structure searching, sorting algorithm comparisons, quizzes, and interactive array manipulations.  Developed functionalities for adding expenses, retrieving all expenses for a specific day, and generating detailed expense reports for a given date.
+Designed an Expense Tracker REST API using Spring Boot, facilitating seamless expense management. Developed functionalities for adding expenses, retrieving all expenses for a specific day, and generating detailed expense reports for a given date.
